@@ -1,0 +1,115 @@
+
+
+1. Free elementary education 2. Easy Scholorships 3. Regular and open school options 4. Midday Meals for childrens 5. Clean washrooms in school as a part of 'Swach Bharat Abhiyan' 
+
+
+ul.MenuBarHorizontal {
+		margin : 2cm
+		width:100%;
+}
+
+Elementary 
+
+Department of education
+
+Rajasthan Council Of Elementary Education
+
+
+
+
+
+Secondary
+
+Rajasthan Council Of Secondary Education
+
+
+
+
+
+Senior Secondary
+
+Rajasthan State Board
+
+
+
+
+
+Open Board 
+
+Rajasthan Open School
+
+
+
+
+
+Vocational 
+
+Training And Education
+
+
+
+
+
+Adult Education 
+
+
+
+Colleges And Universities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schemes And Scholarship Information 
+
+Schemes And Schorlarship For :
+
+Female
+
+Schemes for students (both male and female)
+
+
+
+Goverment Libraries
+
+Main Libraries in Rajasthan
+
+E-resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
